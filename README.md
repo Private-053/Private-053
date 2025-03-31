@@ -10,10 +10,6 @@
 - **Database Management Systems:** MongoDB, MySQL, Oracle SQL, Elasticsearch  
 - **Data Science & Analytics:** Jupyter Notebook, Pandas, NumPy, Scikit-learn  
 
-## 📌 Featured Projects  
-🔹 [**Project Name 1**](link) – Short description of what it does  
-🔹 [**Project Name 2**](link) – Short description of what it does  
-
 ## 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Private-053&show_icons=true&theme=dark)  
 
