@@ -10,10 +10,6 @@
 - **Database Management Systems:** MongoDB, MySQL, Oracle SQL, Elasticsearch  
 - **Data Science & Analytics:** Jupyter Notebook, Pandas, NumPy, Scikit-learn  
 
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Private-053&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Private-053&layout=compact&theme=dark)  
-
 ## 📫 Contact  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/hugojbrandao/)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:hugojbrandao@gmail.com)  
