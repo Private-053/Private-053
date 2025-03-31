@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hello! I'm [Your Name]  
 
-<!--
-**Private-053/Private-053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Recent graduate** in [Your Degree]  
+💻 Passionate about software development and technology  
+🚀 Always learning and improving my skills  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack  
+- **Languages:** Java, JavaScript, Python  
+- **Tools:** Git, Jira, Power BI, Tableau  
+- **Frameworks:** React, Node.js, Spring Boot  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects  
+🔹 [**Project Name 1**](link) – Short description of what it does  
+🔹 [**Project Name 2**](link) – Short description of what it does  
+
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Private-053&show_icons=true&theme=dark)  
+
+## 📫 Contact  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](your-linkedin)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your-email)  
