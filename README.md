@@ -1,14 +1,19 @@
 # 👋 Hello! I'm Hugo Brandão  
 
-🎓 **Recent graduate** in Informatics Engineering  
+🏠 Ponte de Lima, Portugal
+🎓 BSc Computer Science @ Universidade do Minho, Braga
+👨‍🎓 MSc Computer Science @ Universidade do Minho, Braga & TU Wien, Viena
 
 ## 🛠️ Tech Stack  
-- **Languages:** C, C++, CSS, Haskell, HTML, Java, JavaScript, Prolog, Python, SQL  
-- **Tools:** Docker, Git, Linux, Postman, Jira, Power BI, Tableau  
-- **Frontend Frameworks:** Pug, React  
-- **Backend Frameworks:** Express.js, Flask, Node.js, Spring Boot  
-- **Database Management Systems:** MongoDB, MySQL, Oracle SQL, Elasticsearch  
-- **Data Science & Analytics:** Jupyter Notebook, Pandas, NumPy, Scikit-learn  
+
+| **Category**      | **Technologies** |  
+|------------------|------------------------------------------------------------|  
+| **Languages**    | C, C++, CSS, Haskell, HTML, Java, JavaScript, Prolog, Python, SQL |  
+| **Tools**        | Docker, Git, Linux, Postman, Jira, Power BI, Tableau |  
+| **Frontend**     | Pug, React |  
+| **Backend**      | Express.js, Flask, Node.js, Spring Boot |  
+| **Databases**    | MongoDB, MySQL, Oracle SQL, Elasticsearch |  
+| **Data Science** | Jupyter Notebook, Pandas, NumPy, Scikit-learn |  
 
 ## 📫 Contact  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/hugojbrandao/)  
